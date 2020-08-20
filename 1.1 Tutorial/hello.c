@@ -10,8 +10,8 @@
 #include <stdio.h>
 
 int main(int argc, char **argb) {
-    
-    printf("hello World!\n");
+
+    printf("Clay\n");
 
     return 0;
 }
